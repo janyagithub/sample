@@ -1,0 +1,5 @@
+com\apress\springrecipes\sequence\config\SequenceGeneratorConfiguration.class
+com\apress\springrecipes\sequence\Main.class
+com\apress\springrecipes\sequence\Sequence.class
+com\apress\springrecipes\sequence\SequenceDao.class
+com\apress\springrecipes\sequence\SequenceDaoImpl.class
