@@ -15,5 +15,7 @@ public class Main {
         System.out.println(sequenceDao.getNextValue("IT"));
         System.out.println(sequenceDao.getNextValue("IT"));
         System.out.println(sequenceDao.getNextValue("IT"));
+        
+        System.out.println("enterd line for git testing");
     }
 }
